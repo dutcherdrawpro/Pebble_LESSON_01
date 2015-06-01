@@ -1,10 +1,9 @@
 var UI = require('ui');
 
 var main = new UI.Card({
-  title: 'Pebble.js',
-  icon: 'images/menu_icon.png',
+  title: 'Pebble.js: Hello World',
   subtitle: 'Hello World!',
-  body: 'Press any button.'
+  body: 'Druk op een knop!'
 });
 
 main.show();
@@ -15,5 +14,4 @@ main.on('click', 'select', function(e) {
   });
   
   main.show();
-  
 });
