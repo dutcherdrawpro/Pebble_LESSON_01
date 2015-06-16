@@ -1,11 +1,10 @@
 {
     "appKeys": {},
     "capabilities": [
-        "location",
-        "configurable"
+        ""
     ],
-    "companyName": "DUCK",
-    "longName": "AO14 LES 01: Hello World!",
+    "companyName": "dutcherdraw-productions@outloo",
+    "longName": "AO13 LES 01: Hello World!",
     "projectType": "pebblejs",
     "resources": {
         "media": [
@@ -33,8 +32,8 @@
         ]
     },
     "sdkVersion": "3",
-    "shortName": "AO14 LES 01: Hello World!",
-    "uuid": "7024cd97-832b-48cc-a277-030305366624",
+    "shortName": "AO13 LES 01: Hello World!",
+    "uuid": "61268397-f351-4a2a-92aa-241e58b83598",
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {

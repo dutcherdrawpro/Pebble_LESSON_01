@@ -27,7 +27,7 @@ main.on('click', 'up', function(e) {
   var wind = new UI.Window();
   
   var textfield = new UI.Text({
-    position: new Vector2(0, 100),
+    position: new Vector2(0, 0),
     size: new Vector2(144, 168),
     font: 'gothic-18-bold',
     text: 'CUSTOM FONT TYPE'
